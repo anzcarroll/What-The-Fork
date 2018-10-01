@@ -1,5 +1,5 @@
 # Fork-Puns
-Add your Forking funny puns
+Add your Forking funny puns ![alt text](http://i.imgur.com/bbNRs.png)
 
 ---
 ![What-The-Fork](static/img/wtforkbanner.png "What-The-Fork")
